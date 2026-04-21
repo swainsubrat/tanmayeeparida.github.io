@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate, <a href='https://snu.edu.in/'>Shiv Nadar Institution of Eminence</a>. Delhi NCR, India.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Shiv Nadar Institution of Eminence</p>
+    <p>Delhi NCR, India</p>
+    <p>tp724@snu.edu.in</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in the Department of Physics at [Shiv Nadar Institution of Eminence](https://snu.edu.in/), Delhi NCR, India, working under the supervision of [Prof. Aloke Kanjilal](https://snu.edu.in/). My research focuses on **nano-electronics**, **non-volatile memory**, **memristors**, **neuromorphic hardware**, **synaptic devices**, **2D materials**, and **transition metal oxides**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work primarily involves the study and fabrication of resistive switching devices based on HfO₂ and hBN-based heterostructures, exploring phenomena such as multilevel resistive switching, oxygen vacancy modulation, conductance quantization, and mechanosensitive neuromorphic behavior.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my Master of Science in Physics (specialization: Electronics and Experimental Physics) from [Jawaharlal Nehru University (JNU)](https://www.jnu.ac.in/), New Delhi, and my Bachelor of Science in Physics from [Ravenshaw University](https://www.ravenshawuniversity.ac.in/), Cuttack, India.
+
+My technical expertise spans thin film deposition (RF/DC sputtering, CVD, PLD), advanced device characterization (I–V, C–V, impedance spectroscopy, endurance/retention), and structural/surface analysis (XRD, XPS, TEM, FESEM, AFM). I also use Python, VASP, and other computational tools for data analysis and simulations.

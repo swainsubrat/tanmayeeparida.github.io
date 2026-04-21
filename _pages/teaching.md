@@ -2,11 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching assistant roles at Shiv Nadar University.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have served as a Teaching Assistant for the following courses at Shiv Nadar University:
 
-Organize your courses by years, topics, or universities, however you like!
+**Department of Physics**
+
+- **PHY 101**: Introduction to Physics I — Aug to Dec 2021
+- **PHY 102**: Introduction to Physics II — Jan to Dec 2022
+- **PHY 208**: Advanced Experimental Physics I — Jan to Dec 2023
+
+**Department of Computer Science**
+
+- **CSD 1001**: Problem Solving using Programming — Aug to Nov 2025
+- **CSD 101**: Introduction to Computer Programming — Jan to Apr 2026

@@ -1,9 +1,22 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Small":
+  url: https://onlinelibrary.wiley.com/journal/16136829
+  color: "#e63946"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Adv. Mater. Technol.":
+  url: https://onlinelibrary.wiley.com/journal/23656549
+  color: "#457b9d"
 
-"Vision":
-  color: "#009f36"
+"Nanotechnol.":
+  url: https://iopscience.iop.org/journal/0957-4484
+  color: "#2a9d8f"
+
+"NPG Asia Mater.":
+  url: https://www.nature.com/am/
+  color: "#e76f51"
+
+"AIP Conf. Proc.":
+  url: https://aip.scitation.org/journal/apc
+  color: "#264653"
+
+"Submitted":
+  color: "#6c757d"

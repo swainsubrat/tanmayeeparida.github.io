@@ -1,200 +1,267 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Tanmayee Parida",
+    "label": "PhD Candidate in Physics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "tp724@snu.edu.in",
+    "phone": "+91 6370281919",
+    "url": "https://tanmayeeparida.github.io",
+    "summary": "PhD candidate in Physics at Shiv Nadar Institution of Eminence, specializing in nano-electronics, non-volatile memory, memristors, neuromorphic hardware, and 2D materials. GATE and JAM qualified with publications in Small, Advanced Materials Technologies, Nanotechnology, and NPG Asia Materials.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Shiv Nadar Institution of Eminence",
+      "postalCode": "201314",
+      "city": "Delhi NCR",
+      "countryCode": "IN",
+      "region": "Uttar Pradesh"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Dept. of Physics, Shiv Nadar University",
+      "position": "Teaching Assistant — PHY 101: Introduction to Physics I",
+      "startDate": "2021-08-01",
+      "endDate": "2021-12-31",
+      "summary": "Teaching assistant for undergraduate introductory physics course."
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Dept. of Physics, Shiv Nadar University",
+      "position": "Teaching Assistant — PHY 102: Introduction to Physics II",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Teaching assistant for undergraduate introductory physics course."
+    },
+    {
+      "name": "Dept. of Physics, Shiv Nadar University",
+      "position": "Teaching Assistant — PHY 208: Advanced Experimental Physics I",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Teaching assistant for advanced undergraduate experimental physics course."
+    },
+    {
+      "name": "Dept. of Computer Science, Shiv Nadar University",
+      "position": "Teaching Assistant — CSD 1001: Problem Solving using Programming",
+      "startDate": "2025-08-01",
+      "endDate": "2025-11-30",
+      "summary": "Teaching assistant for introductory programming course."
+    },
+    {
+      "name": "Dept. of Computer Science, Shiv Nadar University",
+      "position": "Teaching Assistant — CSD 101: Introduction to Computer Programming",
+      "startDate": "2026-01-01",
+      "endDate": "2026-04-30",
+      "summary": "Teaching assistant for introductory computer programming course."
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Shiv Nadar Institution of Eminence, Delhi NCR, India",
+      "location": "Delhi NCR, India",
+      "url": "https://snu.edu.in/",
+      "area": "Physics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-08-01",
+      "endDate": "",
+      "score": "9.6/10",
+      "courses": ["Nano-electronics", "Non-volatile memory", "Memristors", "Neuromorphic Hardware", "2D Materials", "Transition metal oxides"]
+    },
+    {
+      "institution": "Jawaharlal Nehru University (JNU), New Delhi, India",
+      "location": "New Delhi, India",
+      "url": "https://www.jnu.ac.in/",
+      "area": "Physics (Electronics and Experimental Physics)",
+      "studyType": "Master of Science",
+      "startDate": "2019-08-01",
+      "endDate": "2021-07-31",
+      "score": "7.4/9.0",
+      "courses": ["Electronics", "Experimental Physics"]
+    },
+    {
+      "institution": "Ravenshaw University, Cuttack, India",
+      "location": "Cuttack, India",
+      "url": "https://www.ravenshawuniversity.ac.in/",
+      "area": "Physics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016-08-01",
+      "endDate": "2019-07-31",
+      "score": "8.26/10",
+      "courses": ["Physics"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "International Travel Grant",
+      "date": "2025-01-01",
+      "awarder": "Anusandhan National Research Foundation (ANRF), Government of India",
+      "summary": "Competitive research funding for international travel to present research at EMRS Spring 2025, Strasbourg, France."
+    },
+    {
+      "title": "Poster Award",
+      "date": "2025-01-01",
+      "awarder": "Royal Society of Chemistry (RSC)",
+      "summary": "Awarded for outstanding poster presentation."
+    },
+    {
+      "title": "Student Speaker",
+      "date": "2022-01-01",
+      "awarder": "IEEE event at SRS Indore",
+      "summary": "Selected as student speaker at the IEEE event."
+    },
+    {
+      "title": "GATE Qualified",
+      "date": "2022-01-01",
+      "awarder": "IIT/IISC",
+      "summary": "Qualified Graduate Aptitude Test in Engineering (GATE) in 2021 and 2022."
+    },
+    {
+      "title": "JAM Qualified",
+      "date": "2019-01-01",
+      "awarder": "IIT",
+      "summary": "Qualified Joint Admission test for Masters (JAM) in 2019."
+    },
+    {
+      "title": "Selected Participant",
+      "date": "2015-01-01",
+      "awarder": "DST Government of India",
+      "summary": "Selected participant, INSPIRE Science Camp, Department of Science & Technology, Government of India."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Multilevel Resistive Switching Dynamics by Controlling Phase and Self-Assembled Nanochannels in HfO2",
+      "publisher": "Small",
+      "releaseDate": "2024-01-01",
+      "summary": "Small 21(7), 2409798 (2024). Parida, T.; Luong, M. A.; Das, S.; Claverie, A.; Kanjilal, A."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Exploring Oxygen Vacancies in Sputtered HfO2 Films for Multi-Bit RRAM Applications",
+      "publisher": "Advanced Materials Technologies",
+      "releaseDate": "2025-01-01",
+      "summary": "Advanced Materials Technologies 10(22), e00289 (2025). Parida, T.; Patajoshi, S.; Qamar, U.; Bose, A.; Rao, P.N.; Rai, S.; Das, S.; Kanjilal, A."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Conductance quantization and quantum-point-contact formation in hBN/HfO2 bilayer memristive devices",
+      "publisher": "Nanotechnology",
+      "releaseDate": "2026-01-01",
+      "summary": "Nanotechnology 37, 085001 (2026). Parida, T.; Bhattacharyya, A.; Qamar, U.; Das, S.; Kanjilal, A."
+    },
+    {
+      "name": "Neuromuscular Junction Inspired Mechanosensitive hBN-based Memristors for Flexible Neuromorphics",
+      "publisher": "Manuscript Submitted",
+      "releaseDate": "2024-01-01",
+      "summary": "Parida, T.; Swain, S.K.; Sengupta D; Kanjilal, A."
+    },
+    {
+      "name": "Flexible organic piezoelectric nanogenerator with high power density and excellent ferroelectric and memristor characteristics",
+      "publisher": "NPG Asia Materials",
+      "releaseDate": "2026-01-01",
+      "summary": "NPG Asia Materials 18(1), 4 (2026). Ambastha, P.; Kushwaha, V.; Magar, A.; Gupta, Y.; Parida, T.; et al."
+    },
+    {
+      "name": "Structural and magnetic properties of Sr2NiMO6 (M = W, Mo)",
+      "publisher": "AIP Conference Proceedings",
+      "releaseDate": "2025-01-01",
+      "summary": "AIP Conference Proceedings 3198, 020123 (2025). Patel, R.K.; Rahman, A.G.A.; Halder, P.; Parida, T.; Pramanik, A.K."
+    },
+    {
+      "name": "Temperature-dependent current-voltage characteristics, structural and transport behavior of Fe2TiSn Heusler alloy",
+      "publisher": "AIP Conference Proceedings",
+      "releaseDate": "2024-01-01",
+      "summary": "AIP Conference Proceedings 2995, 020139 (2024). Patel, R.K.; Gondh, S.; Parida, T.; Pramanik, A.K."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Thin Film Deposition",
+      "level": "Expert",
+      "icon": "fa-solid fa-layer-group",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "RF/DC Sputtering",
+        "Spin Coating",
+        "Thermal & E-beam Evaporation",
+        "Chemical Vapor Deposition (CVD)",
+        "Pulsed Laser Deposition (PLD)"
+      ]
+    },
+    {
+      "name": "Device Characterization",
+      "level": "Expert",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "SMU (Keysight B2902A, Keithley 4200SCS)",
+        "DC and Pulse I-V / C-V",
+        "Endurance / Retention Measurements",
+        "Impedance Spectroscopy (EIS)"
+      ]
+    },
+    {
+      "name": "Structural & Surface Characterization",
+      "level": "Expert",
+      "icon": "fa-solid fa-microscope",
+      "keywords": [
+        "XRD", "XRR", "XPS", "TEM", "FESEM", "AFM", "Profilometry",
+        "Raman", "UV-Vis", "Ellipsometry", "EPR"
+      ]
+    },
+    {
+      "name": "Computation & Data Analysis",
+      "level": "Proficient",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python", "C", "Origin", "Gnuplot", "Veusz", "FPSuite", "VASP"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Odia",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Hindi",
+      "fluency": "Proficient",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Nano-electronics & Memory Devices",
+      "icon": "fa-solid fa-microchip",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Non-volatile memory",
+        "Resistive RAM (RRAM)",
+        "Memristors",
+        "Neuromorphic Hardware",
+        "Synaptic Devices"
+      ]
+    },
+    {
+      "name": "Materials Science",
+      "icon": "fa-solid fa-atom",
+      "keywords": [
+        "2D Materials (hBN)",
+        "Transition metal oxides (HfO2)",
+        "Heusler alloys",
+        "Complex transition metal oxides"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Study of structural and dielectric properties of complex transition metal oxides and Heusler alloys",
+      "summary": "M.Sc. thesis project at JNU. Investigated structural and dielectric properties of complex transition metal oxides and Heusler alloys.",
+      "highlights": ["Structural characterization", "Dielectric properties", "Transition metal oxides", "Heusler alloys"],
+      "startDate": "2021-02-01",
+      "endDate": "2021-06-30"
     }
   ]
 }
