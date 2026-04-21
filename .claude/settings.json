@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:pubs.aip.org)",
+      "WebFetch(domain:www.nature.com)",
+      "WebFetch(domain:iopscience.iop.org)",
+      "WebFetch(domain:doi.org)",
+      "WebFetch(domain:printorders.aip.org)"
+    ]
+  }
+}

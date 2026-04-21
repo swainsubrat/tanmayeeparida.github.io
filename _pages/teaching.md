@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Teaching assistant roles at Shiv Nadar University.
 nav: true
 nav_order: 6
